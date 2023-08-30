@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf, you can also call me Ucup</h1>
 <h3 align="center">A Backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 
 
